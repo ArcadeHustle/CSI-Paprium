@@ -33,13 +33,13 @@ Per fair use guidelines the animation frames, and sprites below are shared for t
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration2.png">
 </p>
 
-Without question Luis Martins words frame the discussion: "Most of the character designs inspiration came from watching all kinds of cyberpunk anime and from playing tons of great beat em ups from the 90’s."<br>
-https://www.arcadeattack.co.uk/luis-martins-paprium/
+Without question Luis Martins own words frame the discussion on theft vs inspiration.: ["Most of the character designs inspiration came from watching all kinds of cyberpunk anime and from playing tons of great beat em ups from the 90’s"](https://www.arcadeattack.co.uk/luis-martins-paprium/).
 
-In tweets that have now been deleted Luis stated that "a animator" before him was responsible for the Paprium artwork, and he only touched it up.<br>
+In tweets that have now been deleted Luis openly stated that "a animator" before him was responsible for the Paprium artwork, and he only touched it up.<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration4.jpg">
 </p>
 
+It is not up for debate, that the Paprium art has a long murky history. 
 ["To be clear, initially some chinese animators where contracted by Fonzie, then it became clear that that quality wasn't there, so we hired proper animators"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535) - XGoldenboyX<br> 
 
