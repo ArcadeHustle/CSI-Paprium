@@ -1,5 +1,4 @@
-# CSI-Paprium
-CSI: Paprium (Forensic Sprite analysis) 
+# CSI: Paprium (Forensic Sprite analysis) 
 
 It is time to go [CSI Cyber](https://twitter.com/csicyber) on the Paprium art work by Watermelongames. 
 <p align="center">
