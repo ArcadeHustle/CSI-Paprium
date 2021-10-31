@@ -35,7 +35,7 @@ Per fair use guidelines the animation frames, and sprites below are shared for t
 
 Without question Luis Martins own words frame the discussion on theft vs inspiration: ["Most of the character designs inspiration came from watching all kinds of cyberpunk anime and from playing tons of great beat em ups from the 90’s"](https://www.arcadeattack.co.uk/luis-martins-paprium/).
 
-In tweets that have now been deleted Luis openly stated that "a animator" before him was responsible for the Paprium artwork, and he only touched it up.<br>
+In tweets that have now been [deleted](https://twitter.com/arcade_projects/status/1452109564170706945) Luis openly stated that "a animator" before him was responsible for the Paprium artwork, and he only touched it up.<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration4.jpg">
 </p>
