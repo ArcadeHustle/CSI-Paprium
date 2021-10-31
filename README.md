@@ -40,6 +40,7 @@ In tweets that have now been deleted Luis openly stated that "a animator" before
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration4.jpg">
 </p>
 
-It is not up for debate, that the Paprium art has a long murky history. 
+It is not up for debate, that the Paprium art has a long murky history. The question is how murky.<br>
+
 ["To be clear, initially some chinese animators where contracted by Fonzie, then it became clear that that quality wasn't there, so we hired proper animators"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535) - XGoldenboyX<br> 
 
