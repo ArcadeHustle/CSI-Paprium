@@ -6,7 +6,7 @@ It is time to go [CSI Cyber](https://twitter.com/csicyber) on the [Paprium](http
 </p>
 
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration3.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration3.jpg">
 </p>
 
 This repo will examine the "fair use(?)", or "inspiration" in historic games as reimagined by Paprium artists: [Tori](https://twitter.com/toribirdnosu), [Tim Jonsson](https://twitter.com/Tim__Jonsson), [Luis Martins](https://twitter.com/XLuis__MartinsX), [Gwenael Godde](https://twitter.com/watermelongames)(Fonzie), and unnamed ["chinese animators" that were "contracted by Fonzie"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535).<br>
