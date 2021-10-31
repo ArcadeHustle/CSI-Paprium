@@ -5,7 +5,7 @@ It is time to go [CSI Cyber](https://twitter.com/csicyber) on the Paprium artwor
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/CSI-Cyber-Logo.jpg">
 </p>
 
-This repo will examine the "fair use(?)", or "inspiration" in historic games as reimagined by Papriums artists: [Tori](https://twitter.com/toribirdnosu), [Tim Jonsson](https://twitter.com/Tim__Jonsson), [Luis Martins](https://twitter.com/XLuis__MartinsX), [Gwenael Godde](https://twitter.com/watermelongames), and unknown contractors<br>
+This repo will examine the "fair use(?)", or "inspiration" in historic games as reimagined by Papriums artists: [Tori](https://twitter.com/toribirdnosu), [Tim Jonsson](https://twitter.com/Tim__Jonsson), [Luis Martins](https://twitter.com/XLuis__MartinsX), [Gwenael Godde](https://twitter.com/watermelongames), and unnamed ["chinese animators" that were "contracted by Fonzie"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535).<br>
 
 As CodieKitty put it ["The lines between reference and inspiration, and swiping and plagiarism can be murky"](https://codiekitty.com/MOREC/wmswiping.htm). This will be an educational trip into "Fair Use" and DMCA exemptions in which we will [criticize, research, and comment on](https://www.copyright.gov/fair-use/more-info.html) claims that Watermelon games "stole" sprites from other games. In the process some techniques will be taught for identifying stolen works.<br>
 
