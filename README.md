@@ -24,7 +24,7 @@ There has been a long raging debate about how much of the Paprium content is "st
 <a href="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/TakesAGES.jpg"><img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/TakesAGES.jpg"></a>
 </p>
 
-Per fair use guidelines the animation frames, and sprites below are shared for the purposes of ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
+Per fair use guidelines the animation frames, and sprites in this repo are shared for the purposes of ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
 
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration1.png">
