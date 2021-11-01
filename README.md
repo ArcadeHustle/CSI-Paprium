@@ -47,3 +47,7 @@ It is not up for debate, that the Paprium art has a long murky history. The ques
 "Animation & pixel art quality no less than: Final Fight (arcade), Street Of Rage 3 (megadrive / genesis), King Of Fighter (neo geo)."
 https://web.archive.org/web/20141001082703/http://www.watermelon-corp.com/data/careers_memo.pdf
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/41961787/139609997-b782f302-85fa-4acc-8dca-13331b2e1933.jpeg">
+</p>
+
