@@ -57,6 +57,7 @@ In tweets that have now been [deleted](https://twitter.com/arcade_projects/statu
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration4.jpg" width="302" height="792">
 </p>
 
+# In Closing
 It is not up for debate, that the Paprium art has a long murky history. The question is how murky.<br>
 
 ["To be clear, initially some chinese animators where contracted by Fonzie, then it became clear that that quality wasn't there, so we hired proper animators"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535) - XGoldenboyX<br> 
