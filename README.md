@@ -56,11 +56,14 @@ There has been a long raging debate about how much of the Paprium content is "st
 # Evidences
 Per fair use guidelines the animation frames, and sprites in this repo are shared for the purposes ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
 
+## MonaLisa Vs ChunLi
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration1.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsChunLi/Mona1.png">
 </p>
+
+## MonLia vs Ryu
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration2.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsRyu/Mona1.png">
 </p>
 
 ## SOR3 Ash
