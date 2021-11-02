@@ -44,6 +44,93 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration2.png">
 </p>
 
+## SOR3 Ash
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Golden Axe 3 Dead Frame
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Baba vs Fuuma
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Bonny vs Whip
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## L.Ektra vs Athena
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Murdock vs Rugal
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Murdock vs Duke
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Tug vs Uriem
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Dice vs Terry Bogard
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Scaling Effect<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Rondo vs Heavy D
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Rondo vs Rajon Rondo IRL
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Tug vs Heavy D
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Alex vs Lilith Aensland
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## "_" vs Wolverine
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+## Level tributes
+### Streets of Rage Inner City "tribute"
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
+### Golden Axe "Tribute"
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+</p>
+
 # Inspired by Stalone
 Oddly enough Kenshiro vs. Stalone is often refrenced by Paprium art director Luis Martins as a landmark example of inspiration rather than piracy. 
 <p align="center">
@@ -58,8 +145,8 @@ In tweets that have now been [deleted](https://twitter.com/arcade_projects/statu
 </p>
 
 # In Closing
-It is not up for debate, that the Paprium art has a long murky history. The question is how murky.<br>
+It is not up for debate, that the Paprium art has a long murky history. The question we want to answer ultimately, is how murky?<br>
 
-["To be clear, initially some chinese animators where contracted by Fonzie, then it became clear that that quality wasn't there, so we hired proper animators"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535) - XGoldenboyX<br> 
+["To be clear, initially some chinese animators where contracted by Fonzie, then it became clear that that quality wasn't there, so we hired proper animators"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535) - [XGoldenboyX](https://twitter.com/XLuis__MartinsX)<br> 
 
 
