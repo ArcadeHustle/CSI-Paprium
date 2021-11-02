@@ -145,7 +145,6 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 ## "_" vs Wolverine
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/_VsWolverine/_1.png" >
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/_VsWolverine/_2.jpeg" >
 </p>
 
 ## Level tributes
