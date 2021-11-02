@@ -2,11 +2,11 @@
 
 It is time to go [CSI Cyber](https://twitter.com/csicyber) on the [Paprium](https://www.youtube.com/watch?v=f3CTqTzkgZQ) artwork by [Watermelongames](https://www.magicalgamefactory.com).<br>
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/CSI-Cyber-Logo.jpg">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/CSI-Cyber-Logo.jpg">
 </p>
 
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration3.jpeg">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration3.jpeg">
 </p>
 
 This repo will examine the "fair use(?)", or "inspiration" in historic games as reimagined by Paprium artists: [Tori](https://twitter.com/toribirdnosu), [Tim Jonsson](https://twitter.com/Tim__Jonsson), [Luis Martins](https://twitter.com/XLuis__MartinsX), [Gwenael Godde](https://twitter.com/watermelongames)(Fonzie), [Andrew Bado](https://twitter.com/DarkFalzXL), [Piotr Radecki](http://www.twitter.com/guitarpiter), [Shane Stevens](https://twitter.com/Pixelgeddon) (deceased?), and unnamed ["chinese animators" that were "contracted by Fonzie"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535).<br>
@@ -21,23 +21,23 @@ Accepted issues will be added to this information tome via Pull [Requests](https
 There has been a long raging debate about how much of the Paprium content is "stolen", vs an "homage", or "inspired by" other games. There is now plenty of animation data to examine to academically determine if there is any truth to this claim. Oddly enough Kenshiro vs Stalone is often cited by Paprium art director Luis Martins as a landmark example of inspiration vs piracy.<br>
 
 <p align="center">
-<a href="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/TakesAGES.jpg"><img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/TakesAGES.jpg"></a>
+<a href="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/TakesAGES.jpg"><img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/TakesAGES.jpg"></a>
 </p>
 
 Per fair use guidelines the animation frames, and sprites in this repo are shared for the purposes ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
 
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration1.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration1.png">
 </p>
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration2.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration2.png">
 </p>
 
 Without question Luis Martins own words frame the discussion on theft vs inspiration: ["Most of the character designs inspiration came from watching all kinds of cyberpunk anime and from playing tons of great beat em ups from the 90’s"](https://www.arcadeattack.co.uk/luis-martins-paprium/).
 
 In tweets that have now been [deleted](https://twitter.com/arcade_projects/status/1452109564170706945) Luis openly stated that "a animator" before him was responsible for the Paprium artwork, and he only touched it up.<br>
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/img/inspiration4.jpg">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/inspiration4.jpg">
 </p>
 
 It is not up for debate, that the Paprium art has a long murky history. The question is how murky.<br>
