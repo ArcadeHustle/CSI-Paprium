@@ -46,76 +46,82 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 
 ## SOR3 Ash
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/Ash/Ash.jpg" >
 </p>
 
 ## Golden Axe 3 Dead Frame
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DeadFrame/deadframe1.png" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DeadFrame/deadframe3.jpg" >
 </p>
 
 ## Baba vs Fuuma
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BabaVsFuuma/baba1.png" >
 </p>
 
 ## Bonny vs Whip
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BonnyVsWhip/Bonny1.png" >
 </p>
 
 ## L.Ektra vs Athena
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/LektraVsAthena/LEktra1.png" >
 </p>
 
 ## Murdock vs Rugal
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MurdockVsRugal/Murdock1.png" >
 </p>
 
 ## Murdock vs Duke
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MurdockVsDuke/Murdock1.png" >
 </p>
 
 ## Tug vs Uriem
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/TugVsUriem/Tug1.png" >
 </p>
 
 ## Dice vs Terry Bogard
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DiceVsTerry/dice1.png" >
 </p>
 
 ## Scaling Effect<p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/ShowtimeScaleVsFightersHistory/scaling1.png" >
 </p>
 
 ## Rondo vs Heavy D
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsHeavyD/Rondo1.png" >
 </p>
 
 ## Rondo vs Rajon Rondo IRL
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo1.jpg" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo2.png" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo3.jpg" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo4.jpg" >
 </p>
 
 ## Tug vs Heavy D
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/TugVsHeavyD/Tug1.png" >
 </p>
 
 ## Alex vs Lilith Aensland
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/AlexVsLilith/Alex1.png" >
 </p>
 
 ## "_" vs Wolverine
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/_VsWolverine/_1.png" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/_VsWolverine/_2.jpeg" >
 </p>
 
 ## Level tributes
@@ -127,8 +133,7 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 
 ### Golden Axe "Tribute"
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/GoldenAxeTribute/deadframe2.jpg" >
 </p>
 
 # Inspired by Stalone
