@@ -127,8 +127,8 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 ## Level tributes
 ### Streets of Rage Inner City "tribute"
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/SORInnerCityTribute/innercity1.jpg" >
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/SORInnerCityTribute/innerity2.png" >
 </p>
 
 ### Golden Axe "Tribute"
