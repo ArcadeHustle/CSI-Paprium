@@ -5,6 +5,11 @@ It is time to go [CSI Cyber](https://twitter.com/csicyber) on the [Paprium](http
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/CSI-Cyber-Logo.jpg">
 </p>
 
+* [CSI: Paprium (Forensic Sprite analysis)](#csi-paprium-forensic-sprite-analysis)
+* [Controversy](#controversy)
+* [Evidences](#evidences)
+* [Inspired by Stalone](#inspired-by-stalone)
+
 This repo will examine the "fair use(?)", or "inspiration" in historic games as reimagined by Paprium artists: [Tori](https://twitter.com/toribirdnosu), [Tim Jonsson](https://twitter.com/Tim__Jonsson), [Luis Martins](https://twitter.com/XLuis__MartinsX), [Gwenael Godde](https://twitter.com/watermelongames)(Fonzie), [Andrew Bado](https://twitter.com/DarkFalzXL), [Piotr Radecki](http://www.twitter.com/guitarpiter), [Shane Stevens](https://twitter.com/Pixelgeddon) (deceased?), and unnamed ["chinese animators" that were "contracted by Fonzie"](https://www.sega-16.com/forum/showthread.php?35377-Paprium-The-Official-Thread-Mk-2&p=838535&viewfull=1#post838535).<br>
 
 <p align="center">
