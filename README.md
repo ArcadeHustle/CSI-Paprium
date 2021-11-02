@@ -8,6 +8,8 @@ It is time to go [CSI Cyber](https://twitter.com/csicyber) on the [Paprium](http
 * [CSI: Paprium (Forensic Sprite analysis)](#csi-paprium-forensic-sprite-analysis)
 * [Controversy](#controversy)
 * [Evidences](#evidences)
+   * [MonaLisa Vs ChunLi](#monalisa-vs-chunli)
+   * [MonaLisa vs Ryu](#monalisa-vs-ryu)
    * [SOR3 Ash](#sor3-ash)
    * [Golden Axe 3 Dead Frame](#golden-axe-3-dead-frame)
    * [Baba vs Fuuma](#baba-vs-fuuma)
@@ -61,7 +63,7 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsChunLi/Mona1.png">
 </p>
 
-## MonLia vs Ryu
+## MonaLisa vs Ryu
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsRyu/Mona1.png">
 </p>
