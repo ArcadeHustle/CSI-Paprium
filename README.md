@@ -48,6 +48,6 @@ It is not up for debate, that the Paprium art has a long murky history. The ques
 https://web.archive.org/web/20141001082703/http://www.watermelon-corp.com/data/careers_memo.pdf)
 
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/jobhunt1.png" width="600" height="341">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/img/jobhunt1.jpg" width="600" height="341">
 </p>
 
