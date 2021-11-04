@@ -66,20 +66,21 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 https://github.com/ArcadeHustle/CSI-Paprium/issues/24<br>
 https://github.com/ArcadeHustle/CSI-Paprium/issues/20<br>
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/ShowtimeVsSamson/140191987-a14d788c-1665-4394-851f-ca373b11f1a2.png">
 </p>
 
 ## Dice Vs Ruth
 https://github.com/ArcadeHustle/CSI-Paprium/issues/23
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DiceVsRuth/140171519-2d5f3a78-420b-4d6c-a38b-5438cc799258.png">
 </p>
 
 ## Baba Vs Chin Gentsai
 https://github.com/ArcadeHustle/CSI-Paprium/issues/22<br>
 https://github.com/ArcadeHustle/CSI-Paprium/issues/21<br>
 <p align="center">
-<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BabaVsChinGentsai/140075576-2a5e11a1-a7cd-4950-97dd-804e560f2c82.png">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BabaVsChinGentsai2/140073794-fb386991-b3b6-4d55-94a8-779c7cd06847.png">
 </p>
 
 ## MonaLisa Vs ChunLi
