@@ -8,12 +8,16 @@ It is time to go [CSI Cyber](https://twitter.com/csicyber) on the [Paprium](http
 * [CSI: Paprium (Forensic Sprite analysis)](#csi-paprium-forensic-sprite-analysis)
 * [Controversy](#controversy)
 * [Evidences](#evidences)
+   * [ShowTime Vs Samson](#showtime-vs-samson)
+   * [Dice Vs Ruth](#dice-vs-ruth)
+   * [Baba Vs Chin Gentsai](#baba-vs-chin-gentsai)
    * [MonaLisa Vs ChunLi](#monalisa-vs-chunli)
    * [MonaLisa vs Ryu](#monalisa-vs-ryu)
    * [SOR3 Ash](#sor3-ash)
    * [Golden Axe 3 Dead Frame](#golden-axe-3-dead-frame)
    * [Baba vs Fuuma](#baba-vs-fuuma)
    * [Bonny vs Whip](#bonny-vs-whip)
+   * [MonaLisa vs Storm](#monalisa-vs-storm)
    * [L.Ektra vs Athena](#lektra-vs-athena)
    * [Murdock vs Rugal](#murdock-vs-rugal)
    * [Murdock vs Duke](#murdock-vs-duke)
@@ -57,6 +61,26 @@ There has been a long raging debate about how much of the Paprium content is "st
 
 # Evidences
 Per fair use guidelines the animation frames, and sprites in this repo are shared for the purposes ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
+
+## ShowTime Vs Samson
+https://github.com/ArcadeHustle/CSI-Paprium/issues/24<br>
+https://github.com/ArcadeHustle/CSI-Paprium/issues/20<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+</p>
+
+## Dice Vs Ruth
+https://github.com/ArcadeHustle/CSI-Paprium/issues/23
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+</p>
+
+## Baba Vs Chin Gentsai
+https://github.com/ArcadeHustle/CSI-Paprium/issues/22<br>
+https://github.com/ArcadeHustle/CSI-Paprium/issues/21<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/">
+</p>
 
 ## MonaLisa Vs ChunLi
 https://github.com/ArcadeHustle/CSI-Paprium/issues/20<br>
