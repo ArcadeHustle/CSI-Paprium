@@ -59,72 +59,93 @@ There has been a long raging debate about how much of the Paprium content is "st
 Per fair use guidelines the animation frames, and sprites in this repo are shared for the purposes ["such as criticism, comment, news reporting, teaching, scholarship, and research"](https://www.copyright.gov/fair-use/more-info.html).<br>
 
 ## MonaLisa Vs ChunLi
+https://github.com/ArcadeHustle/CSI-Paprium/issues/20<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsChunLi/Mona1.png">
 </p>
 
 ## MonaLisa vs Ryu
+https://github.com/ArcadeHustle/CSI-Paprium/issues/19<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MonaLisaVsRyu/Mona1.png">
 </p>
 
 ## SOR3 Ash
+https://github.com/ArcadeHustle/CSI-Paprium/issues/1<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/Ash/Ash.jpg" >
 </p>
 
 ## Golden Axe 3 Dead Frame
+https://github.com/ArcadeHustle/CSI-Paprium/issues/2<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DeadFrame/deadframe1.png" >
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DeadFrame/deadframe3.jpg" >
 </p>
 
 ## Baba vs Fuuma
+https://github.com/ArcadeHustle/CSI-Paprium/issues/3<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BabaVsFuuma/baba1.png" >
 </p>
 
 ## Bonny vs Whip
+https://github.com/ArcadeHustle/CSI-Paprium/issues/4<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/BonnyVsWhip/Bonny1.png" >
 </p>
 
+## MonaLisa vs Storm
+https://github.com/ArcadeHustle/CSI-Paprium/issues/6<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/CSI-Paprium/blob/main/Evidence/LisaVsStorm/Lisa1.png" >
+</p>
+
+
 ## L.Ektra vs Athena
+https://github.com/ArcadeHustle/CSI-Paprium/issues/5<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/LektraVsAthena/LEktra1.png" >
 </p>
 
 ## Murdock vs Rugal
+https://github.com/ArcadeHustle/CSI-Paprium/issues/7<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MurdockVsRugal/Murdock1.png" >
 </p>
 
 ## Murdock vs Duke
+https://github.com/ArcadeHustle/CSI-Paprium/issues/8<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/MurdockVsDuke/Murdock1.png" >
 </p>
 
 ## Tug vs Uriem
+https://github.com/ArcadeHustle/CSI-Paprium/issues/9<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/TugVsUriem/Tug1.png" >
 </p>
 
 ## Dice vs Terry Bogard
+https://github.com/ArcadeHustle/CSI-Paprium/issues/10<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/DiceVsTerry/dice1.png" >
 </p>
 
 ## Scaling Effect<p align="center">
+https://github.com/ArcadeHustle/CSI-Paprium/issues/11<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/ShowtimeScaleVsFightersHistory/scaling1.png" >
 </p>
 
 ## Rondo vs Heavy D
+https://github.com/ArcadeHustle/CSI-Paprium/issues/12<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsHeavyD/Rondo1.png" >
 </p>
 
 ## Rondo vs Rajon Rondo IRL
+https://github.com/ArcadeHustle/CSI-Paprium/issues/15<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo1.jpg" >
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/RondoVsRajonRondo/rondo2.png" >
@@ -133,28 +154,33 @@ Per fair use guidelines the animation frames, and sprites in this repo are share
 </p>
 
 ## Tug vs Heavy D
+https://github.com/ArcadeHustle/CSI-Paprium/issues/13<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/TugVsHeavyD/Tug1.png" >
 </p>
 
 ## Alex vs Lilith Aensland
+https://github.com/ArcadeHustle/CSI-Paprium/issues/16<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/AlexVsLilith/Alex1.png" >
 </p>
 
 ## "_" vs Wolverine
+https://github.com/ArcadeHustle/CSI-Paprium/issues/17<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/_VsWolverine/_1.png" >
 </p>
 
 ## Level tributes
 ### Streets of Rage Inner City "tribute"
+https://github.com/ArcadeHustle/CSI-Paprium/issues/18<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/SORInnerCityTribute/innercity1.jpg" >
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/SORInnerCityTribute/innerity2.png" >
 </p>
 
 ### Golden Axe "Tribute"
+https://github.com/ArcadeHustle/CSI-Paprium/issues/2<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/CSI-Paprium/raw/main/Evidence/GoldenAxeTribute/deadframe2.jpg" >
 </p>
